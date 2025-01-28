@@ -1,5 +1,5 @@
-# Blueberry-Winery-Project
-White and Red Wines quality analysis 
+# Blueberry-Winery-Project ML Classification
+White and Red Wines quality analysis with ML classification 
 
 **Data from Vinho Verde**
 I received 2 dataset of white wine and red wine samples from Vinho Verde
