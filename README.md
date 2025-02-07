@@ -4,7 +4,7 @@ White and Red Wines quality analysis with ML classification
 <p> import numpy as np </p>
 <p> import pandas as pd </p>
 <p> import matplotlib.pyplot as plt </p>
-<p> import matplotlib.patches as mpatches </p>  # 
+<p> import matplotlib.patches as mpatches </p>  
 <p> import seaborn as sns </p>
 <p> from scipy import stats </p>
 <p> from sklearn.linear_model import LogisticRegression </p>
