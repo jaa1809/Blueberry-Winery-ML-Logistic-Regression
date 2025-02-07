@@ -1,5 +1,22 @@
 # Blueberry-Winery-Project ML Classification
 White and Red Wines quality analysis with ML classification 
+<p><b>TECHNOLOGIES USED:</b></p>
+<p> import numpy as np </p>
+<p> import pandas as pd </p>
+<p> import matplotlib.pyplot as plt </p>
+<p> import matplotlib.patches as mpatches </p>  # 
+<p> import seaborn as sns </p>
+<p> from scipy import stats </p>
+<p> from sklearn.linear_model import LogisticRegression </p>
+<p> from sklearn.preprocessing import MinMaxScaler </p>
+<p> from sklearn.metrics import classification_report </p>
+<p> from sklearn.metrics import confusion_matrix </p>
+<p> from sklearn.model_selection import train_test_split </p>
+<p> from sklearn.neighbors import KNeighborsClassifier </p>
+<p> from sklearn.metrics import accuracy_score, confusion_matrix, classification_report </p>
+<p> from sklearn.ensemble import RandomForestClassifier </p>
+<p> from sklearn.model_selection import StratifiedKFold, cross_val_score </p>
+<p> from sklearn.model_selection import GridSearchCV, StratifiedKFold </p>
 
 **Data from Vinho Verde**
 I received 2 dataset of white wine and red wine samples from Vinho Verde
