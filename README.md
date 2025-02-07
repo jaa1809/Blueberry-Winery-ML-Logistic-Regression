@@ -17,6 +17,10 @@ White and Red Wines quality analysis with ML classification
 <p> from sklearn.ensemble import RandomForestClassifier </p>
 <p> from sklearn.model_selection import StratifiedKFold, cross_val_score </p>
 <p> from sklearn.model_selection import GridSearchCV, StratifiedKFold </p>
+<p>
+
+  
+</p>
 
 **Data from Vinho Verde**
 I received 2 dataset of white wine and red wine samples from Vinho Verde
